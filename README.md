@@ -1,7 +1,7 @@
 # golang-unit-test
 
 # Package
-"github.com/stretchr/testify"
+Testify - "https://github.com/stretchr/testify"
 
 # What we learn
 - Unit Test (*testing.T)
